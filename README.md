@@ -12,3 +12,7 @@ Checks for the presence of the relevant folders and deletes them specifically.
 - Launch the Powershell ISE administrator
 - Open cleanup.ps1 or paste the contents into the editor
 - Click on the green "Run Script" icon or press F5
+
+### Alternatively Alternatively
+- Save the script to a writable location (e.g. C:\Scripts)
+- Create a scheduled task to run on startup or once a day
