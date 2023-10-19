@@ -9,7 +9,7 @@ Checks for the presence of the relevant folders and deletes them specifically.
 - Launch the script with ./cleanup.ps1
 
 ## Alternatively
-- Launch the Powershell ISE administrator
+- Launch the Powershell ISE as administrator
 - Open cleanup.ps1 or paste the contents into the editor
 - Click on the green "Run Script" icon or press F5
 
